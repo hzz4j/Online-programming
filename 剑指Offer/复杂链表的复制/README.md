@@ -1,1 +1,1 @@
-[解法](http://blog.sina.com.cn/s/blog_a1ce3d4b0102wjgn.html)
+[非常巧妙的解法](http://blog.sina.com.cn/s/blog_a1ce3d4b0102wjgn.html)

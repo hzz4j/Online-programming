@@ -65,3 +65,5 @@ for(int i=index;i<str.length();i++){
 ```
 
 9. 检查是否是数字，Character.isDigit();
+
+10. 双指针的更新not update by one step [code](../leetcode/Medium/TwoPoints/11.container-with-most-water.java)
